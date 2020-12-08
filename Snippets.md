@@ -61,8 +61,11 @@ This document contains the commands used in the course.
 ## 01_09 Arithmetic expansion
 
 `echo $(( 2 + 2 ))`
+
 `echo $(( 4 - 2 ))`
+
 `echo $(( 4 * 5 ))`
+
 `echo $(( 4 / 5 ))`
 
 ## 02_02 Understanding Bash script syntax
