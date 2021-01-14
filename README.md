@@ -16,6 +16,9 @@ Bash, or the Bourne Again Shell, is a widely popular command-line interpreter fo
 - Getting user input during execution
 - Ensuring a response
 
+## Instructions
+Please see the [Snippets.md](https://github.com/LinkedInLearning/bashscripting-2874016/blob/main/Snippets.md) file for all of the commands used in the course.
+
 ### Instructor
 
 **Scott Simpson**
