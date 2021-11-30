@@ -209,7 +209,7 @@ echo "The value of the upperstring variable is: $upperstring"
 
 `declare -i d=3`
 
-`e=$(echo "scale=3; $c/$d | bc)`
+`e=$(echo "scale=3; $c/$d" | bc)`
 
 `echo $e`
 
